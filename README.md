@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrS4w&layout=compact&hide=html" alt="viniciusveigadev" />
 <!--
 **MrS4w/MrS4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
