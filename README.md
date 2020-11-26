@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/mrs4w?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
+
+[![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://github.com/aleen42/badges) 
+
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrS4w&hide=html&layout=compact&theme=buefy" /></td>
 
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=MrS4w&theme=buefy"/></td>
