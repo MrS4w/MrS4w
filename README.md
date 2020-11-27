@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :metal:
 ##### My name is Victor from Brazil. I've been working as developer since 2018 and currently I'm a Front End Developer at everis Brazil.
-###### Long live rock n' roll... ♫ :metal::guitar:
+###### Long live rock n' roll... :guitar:
 [![GitHub followers](https://img.shields.io/github/followers/mrs4w?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
 
 [![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://github.com/aleen42/badges)        [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://github.com/aleen42/badges)        [![Angular](https://aleen42.github.io/badges/src/angular.svg)](https://github.com/aleen42/badges)      [![Node](https://aleen42.github.io/badges/src/node.svg)](https://github.com/aleen42/badges)      [![VS Code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://github.com/aleen42/badges)
