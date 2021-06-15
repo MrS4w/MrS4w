@@ -1,5 +1,5 @@
 ### Hi there :metal:
-##### My name is Victor from Brazil. I've been working as developer since 2018 and currently I'm a Front End Developer at everis Brazil.
+##### My name is Victor from Brazil. I've been working as developer since 2018 and currently I'm a Front End Developer at Accenture Brasil.
 ###### Long live rock n' roll... :guitar:
 [![GitHub followers](https://img.shields.io/github/followers/mrs4w?label=Followers&style=social)](https://github.com/MrS4w?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
 
