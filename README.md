@@ -6,7 +6,6 @@
 [![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)](https://github.com/aleen42/badges)        [![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)](https://github.com/aleen42/badges)        [![Angular](https://aleen42.github.io/badges/src/angular.svg)](https://github.com/aleen42/badges)        [![React](https://aleen42.github.io/badges/src/react.svg)](https://github.com/aleen42/badges)      [![Node](https://aleen42.github.io/badges/src/node.svg)](https://github.com/aleen42/badges)      [![VS Code](https://aleen42.github.io/badges/src/visual_studio_code.svg)](https://github.com/aleen42/badges)
 
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrS4w&hide=html&layout=compact&theme=buefy" /></td>
-
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=MrS4w&theme=buefy"/></td>
 
 
