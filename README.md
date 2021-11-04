@@ -8,6 +8,7 @@
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrS4w&hide=html&layout=compact&theme=buefy" /></td>
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=MrS4w&theme=buefy"/></td>
 
+<!-- ![Snake animation](https://github.com/MrS4w/MrS4w/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **MrS4w/MrS4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
