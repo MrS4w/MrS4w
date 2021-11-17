@@ -11,7 +11,7 @@ import Developer from 'MrS4w';
 class AboutMe extends Developer {
   name = 'Victor';
   role = 'Front End Developer';
-  local = 'São Paulo - Brazil';
+  location = 'São Paulo - Brazil';
 }
 
 class Skills extends Developer {
